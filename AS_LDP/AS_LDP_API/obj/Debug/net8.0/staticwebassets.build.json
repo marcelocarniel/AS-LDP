@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KLFSmFAm+VLmmV0uPlW6xheQ7LNxdhxZ/p1bDdCdWhM=",
+  "Source": "AS_LDP_API",
+  "BasePath": "_content/AS_LDP_API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\AS_LDP_API.props" />
+</Project>
